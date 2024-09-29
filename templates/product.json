@@ -72,15 +72,6 @@
             "page": ""
           }
         },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "<p><br/><strong>Length (cm) 22.5-23.0</strong><br/>- Length (inch): 8.9-9.1<br/>- CN Size: 36-37<br/>- US Size: 4.5-5<br/>- UK Size: 2.5-3<br/>- EU Size: 35-36<br/><br/><strong>Length (cm) 23.5-24.0</strong><br/>- Length (inch): 9.3-9.4<br/>- CN Size: 38-39<br/>- US Size: 6-7<br/>- UK Size: 4-5<br/>- EU Size: 37-38<br/><br/><strong>Length (cm) 24.5-25.0</strong><br/>- Length (inch): 9.6-9.8<br/>- CN Size: 40-41<br/>- US Size: 7.5-8<br/>- UK Size: 5.5-6.5<br/>- EU Size: 39-40<br/><br/><strong>Length (cm) 25.5-26.0</strong><br/>- Length (inch): 10.0-10.2<br/>- CN Size: 42-43<br/>- US Size: 9-10<br/>- UK Size: 7-8<br/>- EU Size: 41-42<br/><br/><strong>Length (cm) 26.5-27.0</strong><br/>- Length (inch): 10.4-10.6<br/>- CN Size: 44-45<br/>- US Size: 11-11.5<br/>- UK Size: 8.5-9<br/>- EU Size: 43-44</p>",
-            "page": ""
-          }
-        },
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
@@ -112,7 +103,6 @@
         "buy_buttons",
         "collapsible-row-0",
         "collapsible-row-1",
-        "collapsible-row-2",
         "collapsible-row-3",
         "share",
         "description"
