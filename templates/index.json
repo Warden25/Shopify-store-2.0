@@ -122,20 +122,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "womens-clothes"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "howl-o-ween-hoodie",
+            "second_image": true
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "frontpage"
           }
         }
       },
@@ -157,6 +157,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -205,6 +206,7 @@
         "column2",
         "column3"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
