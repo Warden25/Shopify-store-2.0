@@ -59,7 +59,7 @@
           "settings": {
             "heading": "Materials",
             "icon": "leather",
-            "content": "",
+            "content": "<p>Cloth</p>",
             "page": ""
           }
         },
